@@ -1,6 +1,0 @@
-notifications:
-  slack:
-    rooms:
-	  - gasesinc:3Rzi5eCkTIFEOHyaDWiCjMBB#general
-	  - gasesinc:3Rzi5eCkTIFEOHyaDWiCjMBB#random
-    - gasesinc:3Rzi5eCkTIFEOHyaDWiCjMBB#us
